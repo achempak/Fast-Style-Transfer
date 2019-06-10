@@ -18,7 +18,7 @@ slow_model.py     --  Contains the VGG-19 neural network architecture and functi
 
 slow_utils.py     --  Contains utility functions to preprocess and display images and plots for the losses
 
-Slow_Style.ipynb  --  Runs the computing framework for slow style transfer and generates results seen in Sections 3 and 4
+Slow_Style.ipynb  --  Runs the computing framework for slow style transfer and generates results seen in Sections 3 and 4. This file also functions as the necessary demo file for this model.
 
 *Fast_Style:*
 
