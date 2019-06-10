@@ -14,13 +14,13 @@ Code Organization
 =================
 Slow_Style:
 
-slow_model.py     --  Contains the VGG-19 neural network architecture and functionality to solve the problem posed by Gatys \\
-slow_utils.py     --  Contains utility functions to preprocess and display images and plots for the losses \\ 
-Slow_Style.ipynb  --  Runs the computing framework for slow style transfer and generates the results seen in Sections 3 and 4 \\
+slow_model.py     --  Contains the VGG-19 neural network architecture and functionality to solve the problem posed by Gatys \n
+slow_utils.py     --  Contains utility functions to preprocess and display images and plots for the losses \n 
+Slow_Style.ipynb  --  Runs the computing framework for slow style transfer and generates the results seen in Sections 3 and 4 \n
 
 Fast_Style:
 
-transformer.py    --  Contains the neural network to transform the content image and prior to feeding to the loss network
-lossnet.py        --  Contains the pretrained VGG-16 network to extract the feature reconstruction and style losses from a content and a style image respectively
-utils.py          --  Contains the utility functions to preprocess and display images and plots for the the losses, as well as load and save the trained models (of the image transformation network) at checkpoints
-Realtime.ipynb    --  Runs the computing framework for fast style transfer and generates the results seen in Sections 3 and 4
+transformer.py    --  Contains the neural network to transform the content image and prior to feeding to the loss network \n
+lossnet.py        --  Contains the pretrained VGG-16 network to extract the feature reconstruction and style losses from a content and a style image respectively \n
+utils.py          --  Contains the utility functions to preprocess and display images and plots for the the losses, as well as load and save the trained models (of the image transformation network) at checkpoints \n
+Realtime.ipynb    --  Runs the computing framework for fast style transfer and generates the results seen in Sections 3 and 4 \n
