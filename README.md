@@ -14,9 +14,9 @@ Code Organization
 =================
 Slow_Style:
 
-slow_model.py     --  Contains the VGG-19 neural network architecture and functionality to solve the problem posed by Gatys \n
-slow_utils.py     --  Contains utility functions to preprocess and display images and plots for the losses \n 
-Slow_Style.ipynb  --  Runs the computing framework for slow style transfer and generates the results seen in Sections 3 and 4 \n
+slow_model.py     --  Contains the VGG-19 neural network architecture and functionality to solve the problem posed by Gatys <\br>
+slow_utils.py     --  Contains utility functions to preprocess and display images and plots for the losses <\br> 
+Slow_Style.ipynb  --  Runs the computing framework for slow style transfer and generates the results seen in Sections 3 and 4 <\br>
 
 Fast_Style:
 
